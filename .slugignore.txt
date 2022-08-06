@@ -1,0 +1,4 @@
+/churnmodel
+/.ipynb_checkpoints
+/app.py
+/churn.h5
